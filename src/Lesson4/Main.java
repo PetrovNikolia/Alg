@@ -34,6 +34,8 @@ public class Main {
                 iter.remove();
             }
         }
+
+
     }
 
     static HashMap<Integer, LinkedList<String>> init() {
