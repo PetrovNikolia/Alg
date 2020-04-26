@@ -18,10 +18,10 @@ public class Main {
         arr.insert(3);
 
         int search = 20;
-        System.out.println(arr.binary(search));
+        //System.out.println(arr.binary(search));
 
-       // System.out.println(backpack.packBackpack(massSubject.length-1,10));
-       // System.out.println(RecPower(2,3));
+       //System.out.println(backpack.packBackpack(massSubject.length-1,10));
+       System.out.println(RecPower(5,3));
     }
     static int RecPower(int a, int b){
         if(b==1){

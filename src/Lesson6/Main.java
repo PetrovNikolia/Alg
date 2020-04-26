@@ -19,6 +19,6 @@ public class Main {
                 balanced++;
             }
         }
-        System.out.println("\n" + balanced);
+        System.out.println((double) balanced/treeMaps.length);
     }
 }
